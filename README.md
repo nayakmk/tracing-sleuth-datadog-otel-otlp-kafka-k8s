@@ -1,9 +1,13 @@
 # Tracing using Spring Sleuth Opentelemetry with Kafka
 
+## Data Dog
+
+User: ddagentuser
+Pass: password
+
 ### Manage Spans
 
 https://docs.spring.io/spring-cloud-sleuth/docs/current-SNAPSHOT/reference/html/using.html#using-creating-and-ending-spans
-
 
 ### Continue Same Span
 
